@@ -2,7 +2,7 @@
 
 ##The following project was created during a hackathon held by PES University with the theme sustainability at the back of mind.
 
-Download the dataset HomeC.csv.
+Download the dataset homec which is a zip file; unzip it and use the csv file.
 This dataset consisted of energy consumption by minute of each appliance in the house.
 
 The aim was to recognise a pattern on the users daily energy consumption and then suggest him on where he can cut down on it.
